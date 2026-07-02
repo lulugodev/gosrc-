@@ -1,0 +1,24 @@
+           --==============--              lulugodev ~ git version 2.55.0
+  .-==-.===oooo=oooooo=ooooo===--===-      ------------------------------
+ .==  =o=oGGGGGGo=oo=oGGGGGGGG=o=  oo-     HEAD: 48033b7 (master)
+ -o= oo=G .=GGGGGo=o== .=GGGGG=ooo o=-     Created: now
+  .-=oo=o==oGGGGG=oo=oooGGGGGo=oooo.       Languages:
+   -ooooo=oooooo=.   .==ooo==oooooo-                  ● Go (95.0 %) ● Shell (5.0 %)
+   -ooooooooooo====_====ooooooooooo=       Author: 100% lulugodev 1
+   -oooooooooooo==#.#==ooooooooooooo       Last change: now
+   -ooooooooooooo=#.#=oooooooooooooo       Commits: 1
+   .oooooooooooooooooooooooooooooooo.      Churn (1): …/sed/package.toml 1
+    oooooooooooooooooooooooooooooooo.                 …/repo/open.go 1
+  ..oooooooooooooooooooooooooooooooo..                …/unpack/unpack.go 1
+-=o-=ooooooooooooooooooooooooooooooo-oo.   Lines of code: 1648
+.=- oooooooooooooooooooooooooooooooo-.-    Size: 9.23 MiB (138 files)
+   .oooooooooooooooooooooooooooooooo-
+   -oooooooooooooooooooooooooooooooo-
+   -oooooooooooooooooooooooooooooooo-
+   -oooooooooooooooooooooooooooooooo-
+   .oooooooooooooooooooooooooooooooo
+    =oooooooooooooooooooooooooooooo-
+    .=oooooooooooooooooooooooooooo-
+      -=oooooooooooooooooooooooo=.
+     =oo====oooooooooooooooo==-oo=-
+    .-==-    .--=======---     .==-
