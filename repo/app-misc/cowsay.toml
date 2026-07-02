@@ -1,0 +1,17 @@
+name = "cowsay"
+version = "3.8.4"
+
+description = "Talking cow"
+homepage = "https://github.com/cowsay-org/cowsay"
+license = "GPL-3.0"
+
+[source]
+url = "https://github.com/cowsay-org/cowsay/archive/refs/tags/v3.8.4.tar.gz"
+sha256 = ""
+
+[build]
+system = "make"
+
+[dependencies]
+build = []
+runtime = []
